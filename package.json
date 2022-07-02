@@ -1,0 +1,26 @@
+{
+  "name": "importjs",
+  "version": "0.0.1",
+  "description": "The import python command",
+  "main": "index.js",
+  "scripts": {
+    "test": "importjs.bat test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheGamer548/importjs.git"
+  },
+  "keywords": [
+    "import",
+    "python",
+    "node.js",
+    "javascript",
+    "module"
+  ],
+  "author": "Coder100",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheGamer548/importjs/issues"
+  },
+  "homepage": "https://github.com/TheGamer548/importjs#readme"
+}
